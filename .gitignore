@@ -1,0 +1,6 @@
+
+*.txt
+*.mat
+*.png
+
+images/*.jpg
