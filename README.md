@@ -24,6 +24,8 @@ Every project *should* have a:
 
 The goal, I think, should be that each project can be completely run, from start to finish, using only files provided in the repo.
 
+Similar projects (eg. All flavors of the Kinereach) should probably be maintained as separate branches, rather than multiple separate projects.
+
 ##Links
 ###Cheatsheet
 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
