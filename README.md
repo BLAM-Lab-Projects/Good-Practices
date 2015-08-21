@@ -1,6 +1,9 @@
 
 #Project organization and how to use Git
 
+##Using Git
+
+
 ##Proposed Project Structure
 
 Every project *should* have a:
@@ -27,6 +30,7 @@ https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 
 ###Starting out with Git
 https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+
 
 ###Git and Github
 https://help.github.com/articles/create-a-repo/
