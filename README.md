@@ -1,12 +1,12 @@
 
-#Notes and Things
+#Project organization and how to use Git
 
 ##Proposed Project Structure
 
 Every project *should* have a:
 
 - Good, informative title
-- README (with many of the things included in the top answer [here](http://stackoverflow.com/questions/2304863/how-to-write-a-good-readme)
+- README (with many of the things included in the top answer [here](http://stackoverflow.com/questions/2304863/how-to-write-a-good-readme))
 - A license (which one, though?)
 - Folders for each major class of files, for example:
   - M-files for running the experiment
@@ -19,16 +19,16 @@ Every project *should* have a:
   - Miscellaneous functions, scripts, etc.
 - A .gitignore to keep undesirables (large datasets, identified data) out
 
+The goal, I think, should be that each project can be completely run, from start to finish, using only files provided in the repo.
+
 ##Links
 ###Cheatsheet
 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 
-###Starting out with git
+###Starting out with Git
 https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 
-###git and github
+###Git and Github
 https://help.github.com/articles/create-a-repo/
-
-I wouldn't bother with the github client -- once you have it from the command line, it's pretty straightforward.
 
 
