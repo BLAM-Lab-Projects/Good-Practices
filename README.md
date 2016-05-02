@@ -1,3 +1,5 @@
+Head to the [wiki](https://github.com/BLAM-Lab-Projects/github-notes/wiki) for a few short guides. 
+
 
 ##Links
 ###Cheatsheet
