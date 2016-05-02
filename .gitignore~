@@ -3,6 +3,6 @@ ignore.gif
 
 *.txt
 *.mat
-
+*.png
 
 images/*.jpg
