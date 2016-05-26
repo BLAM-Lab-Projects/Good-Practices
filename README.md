@@ -14,3 +14,6 @@ https://help.github.com/articles/create-a-repo/
 
 ###Online walkthrough
 https://try.github.io/levels/1/challenges/1
+
+###Cogent example
+https://www.atlassian.com/git/tutorials/syncing
